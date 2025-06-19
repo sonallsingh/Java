@@ -1,2 +1,2 @@
 # Java
-This are files of the java session which I had attended
+This are the practice codes which I had performed during te conducted java sessions.
